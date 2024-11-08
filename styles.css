@@ -10,7 +10,7 @@ html {
 }
 
 body {
-    background-color: #6bc4ee; /* Argentinian Blue background for the entire website */
+    background-color: #090909; /* Argentinian Blue background for the entire website */
     color: #e0e0e0;
     font-family: 'Forum', sans-serif;
     line-height: 1.6;
@@ -174,7 +174,7 @@ textarea {
 }
 
 button {
-    background-color: #0071e3;
+    background-color: #080808;
     color: #fff;
     padding: 12px 24px;
     border: none;
